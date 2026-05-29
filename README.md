@@ -1,4 +1,4 @@
-# restaurant_ctrl.py
+
 """
 restaurant_ctrl.py - Core restaurant controller for RestoManagerG13.
 Author: Rafiou
